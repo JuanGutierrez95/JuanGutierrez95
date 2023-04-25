@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Juan Gutierrez</h1>
 <h3 align="center">A passionate frontend developer from Argentina. My inquisitive and dynamic nature drives me to continually search for fresh and innovative knowledge. I enjoy being part of plural work groups, where I can interact with people from diverse cultures and learn from their unique perspective. I am excited to collaborate in diverse and cooperative team environments, where we can achieve great things together. I have a remarkable ability to maintain the structure and planning of my activities, which allows me to achieve my goals with perseverance and determination. My disciplined and systematic approach leads me to find creative and effective solutions to the obstacles that come my way.</h3>
 
-- 💬 Ask me about **React,JavaScript,Redux,NodeJs,Express**
+- 💬 Ask me about **JavaScript, React, Redux, Express, NodeJs**
 
 - 📫 How to reach me **juan.gutierrez19958@gmail.com**
 
