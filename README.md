@@ -81,6 +81,7 @@ Poseo una notable habilidad para mantener la estructura y planificación de mis 
 <img src="stats.ico" alt="" width="40px"/> My Stats:
 </h2>
 
+/*
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&layout=compact)](https://github.com/JuanGutierrez95/github-readme-stats)
@@ -90,6 +91,7 @@ Poseo una notable habilidad para mantener la estructura y planificación de mis 
 ###
 
 </div>
+*/
 
 <h2>
 Thanks for visiting! <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="hola"/>
