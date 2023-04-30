@@ -78,7 +78,7 @@ Poseo una notable habilidad para mantener la estructura y planificación de mis 
 ###
 
 <h2 align="left">
-<img src="stats.ico" alt="" width="40px"/> My Stats:
+<img/>📊 My Stats:
 </h2>
 
 <div align="center">
