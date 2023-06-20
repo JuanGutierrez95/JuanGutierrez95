@@ -18,13 +18,7 @@
 
 ###
 
-<p align="left">Full Stack Developer especializado en tecnologías de vanguardia, con experiencia en la creación de
-soluciones web eficientes y escalables. Poseo habilidades sólidas en el desarrollo tanto de front-end
-como de back-end, lo que me permite desempeñarme eficazmente en un entorno colaborativo. Soy
-un excelente comunicador, líder de equipo y organizador, con amplio conocimiento en
-metodologías ágiles como Scrum, así como en GIT y estructura de datos. Mi experiencia incluye el
-trabajo con JavaScript, React, Node, SQL y otras tecnologías del sector. Con capacidad para resolver
-problemas, trabajo en equipo, adaptarme a nuevas situaciones y aprender de manera autónoma.</p>
+<p align="left">Full Stack | Front End Developer especializado en tecnologías modernas, con experiencia en la creación de soluciones web eficientes y escalables. Poseo habilidades sólidas en el desarrollo tanto del front-end como del back-end, lo que me permite trabajar eficazmente en un entorno colaborativo. Soy un excelente comunicador, líder de equipo y organizador, con amplio conocimiento en metodologías ágiles como Scrum, así como en GIT y estructura de datos. Mi experiencia incluye el trabajo con JavaScript, React, Node, SQL y otras tecnologías relevantes en el sector. Tengo capacidad para resolver problemas, trabajar en equipo, adaptarme a nuevas situaciones y aprender de manera autónoma.</p>
 
 ###
 
@@ -81,22 +75,6 @@ problemas, trabajo en equipo, adaptarme a nuevas situaciones y aprender de maner
   <a href="mailto:juan.gutierrez19958@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="left">
-<img/>📊 My Stats:
-</h2>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&layout=compact)](https://github.com/JuanGutierrez95/github-readme-stats)
-
-![Juan Gutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&show_icons=true&theme=radical)
-
-###
-
 </div>
 
 ###
