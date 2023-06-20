@@ -18,12 +18,13 @@
 
 ###
 
-<p align="left">My inquisitive and dynamic nature drives me to continually search for fresh and innovative knowledge. I enjoy being part of plural work groups, where I can interact with people from diverse cultures and learn from their unique perspective. I am excited to collaborate in diverse and cooperative team environments, where we can achieve great things together. I have a remarkable ability to maintain the structure and planning of my activities, which allows me to achieve my goals with perseverance and determination. My disciplined and systematic approach leads me to find creative and effective solutions to the obstacles that come my way.</p>
-
-###
-
-<p align="left">Mi carácter inquisitivo y dinámico me impulsa a buscar continuamente conocimientos frescos e innovadores. Disfruto siendo parte de grupos de trabajo plurales, donde puedo interactuar con personas de diversas culturas y nutrirme de su perspectiva única. Me entusiasma colaborar en ambientes de equipo variados y cooperativos, en los que podemos alcanzar grandes logros conjuntamente.
-Poseo una notable habilidad para mantener la estructura y planificación de mis actividades, lo cual me permite alcanzar mis metas con constancia y determinación. Mi enfoque disciplinado y sistemático me lleva a encontrar soluciones creativas y efectivas frente a los obstáculos que se me presentan.</p>
+<p align="left">Full Stack Developer especializado en tecnologías de vanguardia, con experiencia en la creación de
+soluciones web eficientes y escalables. Poseo habilidades sólidas en el desarrollo tanto de front-end
+como de back-end, lo que me permite desempeñarme eficazmente en un entorno colaborativo. Soy
+un excelente comunicador, líder de equipo y organizador, con amplio conocimiento en
+metodologías ágiles como Scrum, así como en GIT y estructura de datos. Mi experiencia incluye el
+trabajo con JavaScript, React, Node, SQL y otras tecnologías del sector. Con capacidad para resolver
+problemas, trabajo en equipo, adaptarme a nuevas situaciones y aprender de manera autónoma.</p>
 
 ###
 
