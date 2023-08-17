@@ -92,8 +92,9 @@
 <br/>
 
 ## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes">
+</div>
 
 ###
 
