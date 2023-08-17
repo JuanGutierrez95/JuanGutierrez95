@@ -63,7 +63,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/juan-gutierrez95" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -81,12 +81,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true" alt="GitHub Streak">
-  </div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/>
@@ -98,14 +94,6 @@
 
 ###
 
-<div>
-
-[![](https://visitcount.itsvg.in/api?id=JuanGutierrez95&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-###
-
 <h2>
-Thanks for visiting! <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="hola"/>
+Thanks for visiting! <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="gracias por visitar"/>
 </h2>
