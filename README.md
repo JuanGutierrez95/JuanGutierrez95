@@ -18,9 +18,6 @@
 
 ###
 
-- 💬 Ask me about **JavaScript, React, Redux and NodeJs**
-
-###
 <br/>
 
 <h2 align="left">💻 Tech Stack:</h2>
