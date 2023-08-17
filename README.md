@@ -75,7 +75,7 @@
 
 ###
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true)<br/>
@@ -87,7 +87,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
 
 [![](https://visitcount.itsvg.in/api?id=JuanGutierrez95&icon=0&color=0)](https://visitcount.itsvg.in)
 
