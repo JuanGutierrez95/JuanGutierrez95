@@ -84,6 +84,15 @@
 
 <br/>
 
+## 😂 Random Dev Meme
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+
+###
+
+<br/>
+
 ## ✍️ Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes">
