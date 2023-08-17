@@ -81,11 +81,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true)<br/>
-</div>
-<div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true" alt="GitHub Streak">
+  </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/>
