@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Full Stack | Front End Developer especializado en tecnologías modernas, con experiencia en la creación de soluciones web eficientes y escalables. Poseo habilidades sólidas en el desarrollo tanto del front-end como del back-end, lo que me permite trabajar eficazmente en un entorno colaborativo. Soy un excelente comunicador, líder de equipo y organizador, con amplio conocimiento en metodologías ágiles como Scrum, así como en GIT y estructura de datos. Mi experiencia incluye el trabajo con JavaScript, React, Node, SQL y otras tecnologías relevantes en el sector. Tengo capacidad para resolver problemas, trabajar en equipo, adaptarme a nuevas situaciones y aprender de manera autónoma.</p>
+<p align="left">Full Stack | Front End Developer especializado en tecnologías modernas, con experiencia en la creación de soluciones web eficientes y escalables. Poseo habilidades solidas en el desarrollo tanto del Front End como del Back End, lo que me permite trabajar eficazmente en un entorno colaborativo. Soy un excelente comunicador, líder de equipo y organizado, con amplio conocimiento en metodologías agiles como Scrum, así como en Git y estructura de datos. Mi experiencia incluye el trabajo con JavaScript, React, Node.Js y otras tecnologías relevantes en el sector. Tengo capacidad para resolver problemas, trabajar en equipo, adaptarme a nuevas situaciones y aprender de manera autónoma.</p>
 
 ###
 
