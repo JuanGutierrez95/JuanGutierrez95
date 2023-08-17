@@ -79,6 +79,16 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+###
+
 <h2>
 Thanks for visiting! <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="hola"/>
 </h2>
