@@ -55,7 +55,7 @@
 
 <br/>
 <h2>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect with me:
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">📩 Connect with me:
 </h2>
 
 ###
