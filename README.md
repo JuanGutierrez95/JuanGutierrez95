@@ -1,10 +1,10 @@
-<img src="/banner.jpg" alt="hola">
+<img src="/Banner.jpg" alt="banner" />
 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 
 ###
 
-<h1 align="center"> 
+<h1 align="center">
 
 **Hi 👋, I'm [Juan Gutierrez](https://www.linkedin.com/in/juan-gutierrez95/)**
 
@@ -77,6 +77,7 @@
 <br/>
 
 ## 📊 GitHub Stats:
+
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanGutierrez95&theme=yeblu&hide_border=true" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGutierrez95&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
@@ -85,6 +86,7 @@
 <br/>
 
 ## 😂 Random Dev Meme
+
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
@@ -94,6 +96,7 @@
 <br/>
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes">
 </div>
